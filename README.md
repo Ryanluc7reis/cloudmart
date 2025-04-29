@@ -50,7 +50,7 @@ O CloudMart foi implementado com uma arquitetura moderna baseada em  multi-cloud
 - Banco de dados: DynamoDB (AWS)
 - Node.JS
 - Express.JS
-
+#### OBS: Veja o repo backend -> [[Repo API]](https://github.com/Ryanluc7reis/cloudmart_api)
 ### Frontend
 - HTML
 - Tailwind CSS
